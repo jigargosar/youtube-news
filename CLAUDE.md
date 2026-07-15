@@ -1,0 +1,1 @@
+* Don't use cd when targeting current dir
